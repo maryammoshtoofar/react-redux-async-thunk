@@ -1,19 +1,101 @@
 {
-  "posts": [
+  "todos": [
     {
+      "userId": 1,
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "title": "delectus aut autem",
+      "deadline": "",
+      "completed": false
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "userId": 1,
+      "id": 2,
+      "title": "quis ut nam facilis et officia qui",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "fugiat veniam minus",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "title": "et porro tempora",
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "title": "laboriosam mollitia et enim quasi adipisci quia provident illum",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 6,
+      "title": "qui ullam ratione quibusdam voluptatem quia omnis",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 7,
+      "title": "illo expedita consequatur quia in",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 8,
+      "title": "quo adipisci enim quam ut ab",
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "id": 9,
+      "title": "molestiae perspiciatis ipsa",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 10,
+      "title": "illo est ratione doloremque quia maiores aut",
+      "completed": true
+    },
+    {
+      "title": "new task",
+      "deadline": "2023-02-03",
+      "completed": false,
+      "id": 11
+    },
+    {
+      "title": "new task 2",
+      "deadline": "2023-02-24",
+      "completed": false,
+      "id": 12
+    },
+    {
+      "title": "new task 3",
+      "deadline": "2023-02-24",
+      "completed": false,
+      "id": 13
+    },
+    {
+      "title": "new task 4",
+      "deadline": "2023-02-24",
+      "completed": false,
+      "id": 14
+    },
+    {
+      "title": "new task 5",
+      "deadline": "",
+      "completed": false,
+      "id": 15
+    },
+    {
+      "title": "new task 6",
+      "deadline": "",
+      "completed": false,
+      "id": 16
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
